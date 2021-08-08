@@ -1,0 +1,20 @@
+{
+    "topheader_left": [
+      {
+        "text1": "SSCSR",
+        "text2": "GOVERMENT OF INDIA"
+      }
+    ],
+    "topheader_right": [
+        {
+          "lang1": "English",
+          "lang2": "Hindi"
+        }
+      ],
+    "menu":[
+      {
+        "m1":"Home",
+        "m2":"About Us"
+      }
+    ]
+  }
