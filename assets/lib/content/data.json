@@ -1,20 +1,140 @@
 {
-    "topheader_left": [
+  "menus": [{
+          "menu": 1,
+          "link": "/",
+          "leading_icon": 58136,
+          "trailing_icon": "",
+          "name": "Home",
+          "sub_menu": []
+      },
       {
-        "text1": "SSCSR",
-        "text2": "GOVERMENT OF INDIA"
-      }
-    ],
-    "topheader_right": [
-        {
-          "lang1": "English",
-          "lang2": "Hindi"
-        }
-      ],
-    "menu":[
+          "menu": 2,
+          "link": "",
+          "leading_icon": "",
+          "trailing_icon": 59288,
+          "name": "About Us",
+          "sub_menu":  [{
+                  "menu": 1,
+                  "link": "/admitcard",
+                  "leading_icon": "",
+                  "trailing_icon": "",
+                  "name": "admitCard"
+              }, {
+                  "menu": 2,
+                  "link": "",
+                  "leading_icon": "",
+                  "trailing_icon": "",
+                  "name": "Setup of Commission"
+              }]
+          
+      },
       {
-        "m1":"Home",
-        "m2":"About Us"
+          "menu": 3,
+          "link": "",
+          "leading_icon": "",
+          "trailing_icon": 59288,
+          "name": "Recruitment",
+
+          "sub_menu":  [{
+              "menu": 1,
+              "link": "",
+              "leading_icon": "",
+              "trailing_icon": "",
+              "name": "Notice of Rectuitment"
+          }, {
+              "menu": 2,
+              "link": "",
+              "leading_icon": "",
+              "trailing_icon": "",
+              "name": "Calendar of Examination"
+          }]
+      
+      },
+      {
+          "menu": 4,
+          "link": "",
+          "leading_icon": "",
+          "trailing_icon": "",
+          "name": "Nomination",
+          "sub_menu": []
+      },
+      {
+          "menu": 5,
+          "link": "",
+          "leading_icon": "",
+          "trailing_icon": "",
+          "name": "Selection Post",
+          "sub_menu": []
+      },
+      {
+          "menu": 6,
+          "link": "",
+          "leading_icon": "",
+          "trailing_icon": 59288,
+          "name": "User Departments",
+          "sub_menu":  [{
+              "menu": 1,
+              "link": "",
+              "leading_icon": "",
+              "trailing_icon": "",
+              "name": "Requisition for MTS"
+          }, {
+              "menu": 2,
+              "link": "",
+              "leading_icon": "",
+              "trailing_icon": "",
+              "name": "Requisition for Selection Posts"
+          },{
+              "menu": 3,
+              "link": "",
+              "leading_icon": "",
+              "trailing_icon": "",
+              "name": "Annual Typing Test and Proficiency Test - Application Form"
+          }]
+      },
+      {
+          "menu": 7,
+          "link": "",
+          "leading_icon": "",
+          "trailing_icon": 59288,
+          "name": "Downloads",
+          "sub_menu":  [{
+              "menu": 1,
+              "link": "",
+              "leading_icon": "",
+              "trailing_icon": "",
+              "name": "Forms"
+          }, {
+              "menu": 2,
+              "link": "",
+              "leading_icon": "",
+              "trailing_icon": "",
+              "name": "Instructions"
+          }]
+      },
+      {
+          "menu": 8,
+          "link": "",
+          "leading_icon": "",
+          "trailing_icon": "",
+          "name": "FAQ",
+          "sub_menu": []
+      },
+      {
+          "menu": 9,
+          "link": "",
+          "leading_icon": "",
+          "trailing_icon": "",
+          "name": "RTI",
+          "sub_menu": []
+      },
+      {
+          "menu": 10,
+          "link": "",
+          "leading_icon": "",
+          "trailing_icon": "",
+          "name": "Tender",
+          "sub_menu": []
       }
-    ]
-  }
+  ]
+}
