@@ -1,5 +1,6 @@
 {
-  "menus": [{
+  "menus": [
+      {
           "menu": 1,
           "link": "/",
           "leading_icon": 58136,
